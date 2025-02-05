@@ -636,7 +636,7 @@ body {
 
 @media (width <=640px) {
   .container::before {
-    background-image: url("../public/giphy.gifg");
+    background-image: url("../public/giphy.gif");
     margin: -2px;
     filter: blur(2px);
     background-color: rgba(0, 0, 0, 0.5);
